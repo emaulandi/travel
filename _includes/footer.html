@@ -2,14 +2,26 @@
 <footer class="footer section-padding">
   <div class="grid">
 
-    <hr class="sep--white"/>
-
     <div class="footer__container">
       {% tags_list :threshold => 1, :sort_by => count, :order_by => desc, :limit => 5 %}
 
       {% include social.html %}
+
+      <br/>
+
     </div>
+
+    <hr class="sep--white"/>
+
+    <div>
+      <br/>
+      <p align="center">  Jekyll Theme Made by Thomas Vaeth @ <a href="http://samesies.io" target="_blank">Samesies</a></p>
+    </div>
+
   </div>
+
+
+
 </footer>
 
 {% include contact.html %}
@@ -19,5 +31,7 @@
     var maxPages = parseInt('{{ paginator.total_pages }}');
   </script>
 {% endif %}
+
+
 
 <script src="{{ '/assets/js/app.min.js' | prepend: site.baseurl }}"></script>
