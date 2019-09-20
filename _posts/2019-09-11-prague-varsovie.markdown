@@ -64,3 +64,5 @@ L'après-midi, c'est visite du <a href="http://www.postermuseum.pl/en/" target="
 <img src="/assets/images/varsovie-poster.jpg" alt="Grid Image"/>
 
 Retour à la guesthouse chercher les affaires, je commence cet article et il est déjà l'heure de prendre le bus pour Riga.  C'est déjà le dernier bus de mon périple ! Oh là là le transsibérien approche, et déjà je prendrais un train de nuit russe pour aller de Riga à Moscou, ça va me mettre dans l'ambiance.
+
+<a href="https://emaulandi.netlify.com/2019/09/15/riga-moscou/" target="_blank">#4 Varsovie - Riga - Moscou : rencontres magiques</a>
