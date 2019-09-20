@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#3 Varsovie - Riga - Moscou : rencontres magiques"
+title: "#4 Varsovie - Riga - Moscou : rencontres magiques"
 date: 2019-09-15
 description:
 image: /assets/images/riga-trajet.jpg
