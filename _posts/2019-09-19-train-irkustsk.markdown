@@ -59,3 +59,5 @@ Fait nouveau dans ce nouveau quotidien, lors d'un arrêt en gare, un russe du tr
 <img src="/assets/images/train1-bas3.jpg" alt="Grid Image"/>
 
 Le dernier matin, je me réveille une heure avant l'arrêt pour être sure de ne pas le rater. Je suis super en avance. Je ramène mes draps et ma petite serviette. Les enfants se préparent aussi, je crois qu'ils descendent au même endroit. Arrivée à Irkustsk à 6h22.
+
+<a href="https://emaulandi.netlify.com/2019/09/21/irkustsk-baikal/" target="_blank">#6 Irkustsk et le lac Baïkal : pause bleue</a>

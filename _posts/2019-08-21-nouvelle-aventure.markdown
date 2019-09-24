@@ -25,4 +25,6 @@ Entre fin 2017 et maintenant j’ai pas vraiment trouvé ma bonne place. J’ai 
 	 allowfullscreen>
 </iframe>
 
+<a href="https://emaulandi.netlify.com/2019/09/04/milan/" target="_blank">#1 Montpellier - Milan : départ et des pâtes</a>
+
 A toi aussi l’aventure, proche ou lointaine, courte ou longue, programmes un peu les choses, parles-en et après il faut bien y aller ! Quand c’est trop gros, coupe en petit bout !
